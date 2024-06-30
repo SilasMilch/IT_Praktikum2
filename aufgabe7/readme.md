@@ -5,21 +5,21 @@ Operatorenüberladung und STL-Funktionalität
 
 
 Operatorenüberladung
-1. Überladen der Operatoren<, >, == für die Studentenklasse
-2. Änderung der Ausgabe Funktion der Student Klasse
-3. Überladen des Ausgabeoperators << außerhalb der Student Klasse
+>1. Überladen der Operatoren<, >, == für die Studentenklasse
+>2. Änderung der Ausgabe Funktion der Student Klasse
+>3. Überladen des Ausgabeoperators << außerhalb der Student Klasse
 
 STL-Funktionalität
-1. Impelemtierung einer Sortierfunktion mit std::sort
-2. suchen eines Studenten std::find
+>1. Impelemtierung einer Sortierfunktion mit std::sort
+>2. suchen eines Studenten std::find
 
 Operatorenüberladung 
-Benutzerdefinierte Ausgabe 
-Verwendung der STL 
+>Benutzerdefinierte Ausgabe 
+>Verwendung der STL 
 
 
 Folgende Funktionalitäten werden nun bereitsgestellt: 
-- Operatorenüberladung: Studentenobjekte können effizient verglichen werden 
-- Benutzerdefinierte Ausgabe: Anpassung Ausgabe Funktion, Überladen des Ausgabeoperators erlauben eine benutzerfreundliche und flexible Ausgabe von Studentenobjekten, was die Iteroperabilität mit STL-Algorithmen verbessert 
-- Verwendung der STL:
-Nutzung von std::sort und std::find demonstrieren Effizienz der STL-Algorithmen
+>- Operatorenüberladung: Studentenobjekte können effizient verglichen werden 
+>- Benutzerdefinierte Ausgabe: Anpassung Ausgabe Funktion, Überladen des Ausgabeoperators erlauben eine benutzerfreundliche und flexible Ausgabe >von Studentenobjekten, was die Iteroperabilität mit STL-Algorithmen verbessert 
+>- Verwendung der STL:
+>Nutzung von std::sort und std::find demonstrieren Effizienz der STL-Algorithmen
