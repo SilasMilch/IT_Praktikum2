@@ -111,6 +111,11 @@ getName
 
 
 
+Ausleihbeschränkung: 
+Magazin: nur wenn es die neuste Ausgabe ist => alle Magazine erscheinen immer zu Beginn eines neuen Monats 
+
+DVD: darf nur von Personen ausgeliehen werden, die die Altersbeschränkungen erfüllen 
+
 Medium (Oberklasse)
 	DVD
 	Datum
