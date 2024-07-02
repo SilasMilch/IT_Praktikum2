@@ -172,7 +172,7 @@ void Liste::ausgabeRueckwaerts() const
  */
 Student *Liste::findElement(unsigned int matNr)
 {
-    // Ich bezweifle stark, dass wird das so machen sollen, aber es funktioniert
+    
     auto it = std::find_if(studenten.begin(), studenten.end(), [&matNr](const Student &student)
         { return student.getMatNr() == matNr; });
     if (it != studenten.end())
