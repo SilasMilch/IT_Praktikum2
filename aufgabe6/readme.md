@@ -31,6 +31,8 @@ main.cpp
     3. Hauptmenü Schleife (do-while):
         ◦ Bietet eine Benutzerschnittstelle zur Auswahl von Operationen.
     4. switch case Methoden => verschieden Fälle werden abgearbeitet
+
+   Methoden wie std::vector insert sind vordefinierte Methoden.
   
 
 studenten.txt
